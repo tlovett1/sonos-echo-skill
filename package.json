@@ -1,0 +1,24 @@
+{
+  "name": "sonos-echo-skill",
+  "version": "1.0.0",
+  "description": "Sonos skill for Amazon Echo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlovett1/sonos-echo-skill.git"
+  },
+  "keywords": [
+    "sonos",
+    "alexa",
+    "echo",
+    "amazon"
+  ],
+  "author": "Taylor Lovett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tlovett1/sonos-echo-skill/issues"
+  },
+  "dependencies": {
+    "sonos": "^0.13.0"
+  }
+}
